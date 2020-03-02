@@ -6,7 +6,7 @@ TOKEN = 'THi5IsDuMMyaCCesSTOK3nQ4.Cl2FMQ.ThIsi5DUMMyAcc3s5ToKen7kKWs'
 # 接続に必要なオブジェクトを作る
 client = discord.Client()
 
-BOTが起動したら
+#BOTが起動したとき
 @client.event
 async def on_ready():
     print('logined')
