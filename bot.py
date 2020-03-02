@@ -9,7 +9,7 @@ client = discord.Client()
 #BOTが起動したとき
 @client.event
 async def on_ready():
-    print('logined')
+    print('起動しました！(\'◇\')ゞ')
 
 #メッセージを受け取ったとき
 @client.event
