@@ -8,4 +8,4 @@ discordでのヘルプは[こちら](https://discordapp.com/invite/Cvyx8j5) の�
 > 3. コマンドプロンプトで`pip3 install -r requirements.txt`と入力してライブラリをインストール  
 > 4. bot.py のトークンを自分のBOTのトークンにする  
 > 5. `python bot.py`で起動
-> コンソールに起動しました！(\'◇\')ゞ`と出たら成功です。   
+> コンソールに`起動しました！(\'◇\')ゞ`と出たら成功です。   
