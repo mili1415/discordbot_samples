@@ -1,6 +1,6 @@
 # discordのBOTのサンプル  
 [discord.py公式リファレンス](https://discordpy.readthedocs.io/en/latest/index.html)  
-discordでのヘルプは[こちら](https://discord.gg/QVt6pYR) のサーバーまで
+discordでのヘルプは[こちら](https://discord.gg/7kKddVA) のサーバーまで
 
 ## BOTの作り方  
 > 1. [python](https://python.org)をインストールする  
