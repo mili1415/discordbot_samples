@@ -1,7 +1,7 @@
 #discordのライブラリをインポート
 import discord
 #自分のトークンにしてね
-TOKEN = 'THi5IsDuMMyaCCesSTOK3nQ4.Cl2FMQ.ThIsi5DUMMyAcc3s5ToKen7kKWs'
+TOKEN = 'YB8Xpomxfh6zIOURWmX6wtBnfbnfKgLC'
 
 # 接続に必要なオブジェクトを作る
 client = discord.Client()
